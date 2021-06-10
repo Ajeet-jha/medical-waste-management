@@ -1,0 +1,11 @@
+.lowerer-footer {
+    background: #0c5783;
+    color: #b7ec9a;
+    font-family: 'Poppins';
+    clear: both;
+    display: flex;
+    justify-content: space-evenly;
+}
+.lowerer-footer .lowerer-footer__left {
+    display: flex;
+}

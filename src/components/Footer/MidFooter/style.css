@@ -1,0 +1,11 @@
+.mid-footer {
+    background: #1687af;
+    display: flex;
+    clear: both;
+    padding: 100px 0;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 0!important;
+    background-image: url(https://30n3af1kwb3g2rjh8513mr6o-wpengine.netdna-ssl.com/wp-content/themes/medpro/img/footer.jpg);
+    background-size: cover;
+}
